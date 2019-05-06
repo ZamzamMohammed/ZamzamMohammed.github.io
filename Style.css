@@ -1,7 +1,19 @@
-.wrapper {
-  width: 620px;
-  height: 110px;
-  margin: 0;
-  padding: 10px;
-  border: 6px solid lightgrey;
-}
+body {
+        background-color: navy;
+      }
+      h5 {
+        padding: 2px 10px 5px 700px;
+      }
+      p {
+        padding: -200px 0 0 0;
+      }
+      h2 {
+        text-decoration: underline;
+      }
+ div {
+          background-color:lightgrey;
+          align:center;
+          width: 900px;
+          padding: 10px;
+          margin: 200px;
+        }

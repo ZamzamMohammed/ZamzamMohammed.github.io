@@ -9,6 +9,7 @@ h1 {
       }
       p {
         padding: -200px 0 0 0;
+        font-weight: bold;
       }
       h2 {
         text-decoration: underline;

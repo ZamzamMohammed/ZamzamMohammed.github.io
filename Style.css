@@ -1,6 +1,9 @@
 body {
         background-color: navy;
-      }
+      }  
+h1 {
+  text-align: center;
+}
       h5 {
         padding: 2px 10px 5px 700px;
       }
